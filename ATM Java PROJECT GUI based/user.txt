@@ -1,0 +1,3 @@
+Shatabdi,1234,60000.0
+rihan,rihan,200000.0
+raihan,raihan,260970.0
